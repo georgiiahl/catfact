@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/catfact/static/css/main.f855e6bc.css",
+    "main.js": "/catfact/static/js/main.38c1732a.js",
+    "static/js/453.2e7aab11.chunk.js": "/catfact/static/js/453.2e7aab11.chunk.js",
+    "index.html": "/catfact/index.html",
+    "main.f855e6bc.css.map": "/catfact/static/css/main.f855e6bc.css.map",
+    "main.38c1732a.js.map": "/catfact/static/js/main.38c1732a.js.map",
+    "453.2e7aab11.chunk.js.map": "/catfact/static/js/453.2e7aab11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.38c1732a.js"
+  ]
+}
