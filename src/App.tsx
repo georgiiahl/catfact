@@ -22,6 +22,7 @@ const App: React.FC = () => {
         },
       });
       const allFavorites = await db.getAll('favorites');
+
       setFavorites(allFavorites);
     };
     loadFavorites();
