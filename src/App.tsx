@@ -75,7 +75,8 @@ const App: React.FC = () => {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-heade
+r">
         <h1>Movie Search</h1>
         <SearchBar onSearch={searchMovies} />
       </header>
