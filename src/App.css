@@ -3,8 +3,6 @@
   -webkit-touch-callout: none;
   outline: none;
 }
-
-
 main {
   display: flex;
   flex-direction: column;
