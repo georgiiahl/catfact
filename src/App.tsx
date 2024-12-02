@@ -7,6 +7,7 @@ import MovieDetails from './components/MovieDetails';
 import Favorites from './components/Favourites';
 import { openDB } from 'idb';
 // еуые
+
 const App: React.FC = () => {
   const YOUR_API_KEY = '53d32310';
   const [movies, setMovies] = useState([]);
