@@ -1,14 +1,1 @@
-/* Collection: core, Mode: Mode 1 */
---white: rgba(255, 255, 255, 1);
---black: rgba(0, 0, 0, 1);
---gray: rgba(241, 241, 241, 1);
---dark-gray: rgba(105, 105, 105, 1);
---radii: 4;
-
-/* Collection: palette, Mode: light */
---background: rgba(255, 255, 255, 1);
---foreground: rgba(105, 105, 105, 1);
-
-/* Collection: component, Mode: Mode 1 */
---border-radius: 4;
 
